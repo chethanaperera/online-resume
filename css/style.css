@@ -417,6 +417,14 @@ img {
 .project-role {
     color: var(--primary-color);
     font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+.project-platforms {
+    color: var(--primary-color);
+    font-weight: 600;
     margin-bottom: 1.5rem;
     text-transform: uppercase;
     font-size: 0.9rem;
@@ -528,6 +536,7 @@ img {
     margin-top: 2rem;
 }
 
+ /* contact-item class is also used in social media icons for project work section */
 .contact-item {
     display: flex;
     flex-direction: column;
