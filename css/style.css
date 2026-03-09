@@ -343,6 +343,7 @@ img {
     padding: 0;
     text-align: center;
     border: 1px solid rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
 }
 
 .project-info {
@@ -700,4 +701,5 @@ img {
         flex-direction: column;
         text-align: center;
     }
+
 }
